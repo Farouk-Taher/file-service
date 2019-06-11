@@ -1,6 +1,15 @@
+## Distributed file system
+
+Mainly it is upload, download, delete and update. <br>
+So it's doing the basic CRUD operations on files in the database.
+
 ## Steps to Setup
 
 **1. Clone the repository** 
+
+```bash
+git clone https://github.com/Farouk-Taher/file-service.git
+```
 
 **2. Configure MySQL database**
 
